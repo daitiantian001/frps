@@ -1,5 +1,5 @@
 FROM alpine:3.8
-LABEL maintainer="Stille <stille@ioiox.com>"
+LABEL maintainer="DAI <just2do@aliyun.com>"
 
 ENV VERSION 0.45.0
 ENV TZ=Asia/Shanghai
